@@ -1,5 +1,5 @@
 # RAGETRACER
-# *Enter the frustum*
+## *Enter the frustum*
 
 CPU Raytracer written in Rust.
 
