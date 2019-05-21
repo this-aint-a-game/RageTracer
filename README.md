@@ -1,6 +1,8 @@
 # RAGETRACER
+#*Enter the frustum*
+
 CPU Raytracer written in Rust.
-*Enter the frustum*
+
 
 [![Build Status](https://travis-ci.org/carolinecullen/Rust-Raytracer.svg?branch=master)](https://travis-ci.org/carolinecullen/Rust-Raytracer)
 
